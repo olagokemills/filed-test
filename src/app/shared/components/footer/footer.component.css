@@ -1,0 +1,15 @@
+ul li{
+    list-style-type: none;
+    display: inline;
+}
+footer{
+    background-color: #595957;
+}
+
+
+@media screen and (max-width: 426px)
+{
+    footer{
+        display: none;
+    }
+}

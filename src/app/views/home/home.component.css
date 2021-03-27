@@ -1,0 +1,43 @@
+
+.review-section{
+    background-image:linear-gradient(180deg, #38CCF5 0%, #3ECCF5 0%, #42CCF5 16%, #36C1EE 38%, #119FD6 62%, #2A97BF 81%, #108ABF 100%);
+}
+.header-quotes{
+    font-size: 20px;
+}
+q{
+    color: #fff;
+}
+.img-rounded{
+    border-radius: 50%;
+    width: 100px;
+}
+.features{
+    list-style-image: url('../../../assets/img/utils/check.svg');
+    list-style-position: outside;
+}
+.offer-section{
+    height: 50vh;
+    background-image: url('../../../assets/img/bg/offer-bg.svg');
+    background-size: cover;
+}
+.offer-section p{
+    color: #38CCF5;
+    font-size: 30px;
+}
+.btn-started{
+    background-color: #FF6E4E;
+    color: #fff;
+    box-shadow: 0px 4px 8px #00000029;
+}
+label{
+    color: #000000;
+}
+.card{
+    box-shadow: 0px 4px 20px #00000029;
+    border-radius: 30px;
+    background-color: #fbfbfb;
+}
+.highlight{
+    color: #38CCF5;
+}
